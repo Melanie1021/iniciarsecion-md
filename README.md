@@ -33,7 +33,7 @@ En iDempiere el login es el proceso que permite el acceso de forma segura utiliz
 > 4. ### *Contraseña*:
 Llene este campo con la contraseña que se le haya asignado.
 
-> 5. ### *Lenguaje*
+> 5. ### *Idioma*
 En este campo puede seleccionar el lenguaje con el que va a interactuar con el sistema. Solamente se muestran los mensajes permitidos por el administrador del sistema. Si requiere activar lenguajes adicionales por favor contacte al administrador del sistema.
 
 > 6. ### *Seleccionar Rol*
