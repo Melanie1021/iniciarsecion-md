@@ -9,7 +9,7 @@ En iDempiere el login es el proceso que permite el acceso de forma segura utiliz
 
 ## *Pasos para Iniciar Sesion en iDempiere*
 
-> 1. Ingresaremos al siguiente link: https://demo.globalqss.com/webui/
+> 1. Ingrese al siguiente link: https://demo.globalqss.com/webui/
 
  La página para hacer login en iDempiere presenta los siguientes componentes:
 
@@ -37,9 +37,7 @@ Llene este campo con la contraseña que se le haya asignado.
 En este campo puede seleccionar el lenguaje con el que va a interactuar con el sistema. Solamente se muestran los mensajes permitidos por el administrador del sistema. Si requiere activar lenguajes adicionales por favor contacte al administrador del sistema.
 
 > 6. ### *Seleccionar Rol*
-Esta bandera indica que usted desea seleccionar un grupo empresarial, rol, organización, almacén y fecha.
-
-Si deja esta bandera deshabilitada entonces usted ingresará al sistema con los mismos valores que usó la última vez.
+seleccione el rol
 
 > 7. ### *Recordar mis Datos*
 Esta bandera le permite guardar la información de Usuario y Contraseña.
@@ -54,5 +52,5 @@ Este botón activará un mecanismo para asignar una nueva contraseña y enviarla
 Es posible que su sistema no muestre este botón pues es configurable.
 
 > 9. ### *Boton ok*
-Finalmente ya llenando todos los campos presionaremos el boton "ok" y  asi ya iniciamos sesión en de iDempiere.
+Finalmente ya llenando todos los campos presione el boton "ok" y  asi ya iniciamos sesión en de iDempiere.
 
