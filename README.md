@@ -40,11 +40,10 @@ En este campo puede seleccionar el lenguaje con el que va a interactuar con el s
 seleccione el rol
 
 > 7. ### *Recordar mis Datos*
-Esta bandera le permite guardar la información de Usuario y Contraseña.
 
 Es posible que su sistema no muestre esta bander ya que es configurable.
 
-Por favor nótese que el administrador de su sistema puede haber configurado esta bandera para guardar solamente el Usuario/EMail y no la contraseña.
+Por favor nótese que el administrador de su sistema puede haber configurado  para guardar solamente el Usuario/EMail y no la contraseña.
 
 > 8. ### *Olvide mi contraseña*
 Este botón activará un mecanismo para asignar una nueva contraseña y enviarla por correo. Requiere que usted conteste algunas preguntas de seguridad antes de reiniciar su contraseña.
